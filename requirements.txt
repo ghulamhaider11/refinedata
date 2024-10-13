@@ -9,3 +9,4 @@ ydata-profiling
 joblib
 openpyxl
 pydantic
+setuptools  # Add this line
