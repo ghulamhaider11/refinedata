@@ -9,4 +9,5 @@ ydata-profiling
 joblib
 openpyxl
 pydantic
-setuptools  # Add this line
+setuptools
+streamlit-pandas-profiling  # Add this line
